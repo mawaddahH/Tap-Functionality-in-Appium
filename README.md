@@ -18,8 +18,7 @@ Assignment 3 W11D5 - SDA - Software QA Bootcamp
 
 ---
 # Question
-Create an Appium script to open any application on the phone and perform Touch actions
-
+Create an Appium script to do Tap Functionality for an App (select any application) on a mobile phone.
 ---
 
 # Answer
